@@ -26,6 +26,8 @@ The following images demonstrate the web application's appearance after the work
 
 Here is the link to the deployed application:
 
+https://sdavila210.github.io/work-day-scheduler/
+
 
 ## Credits
 
