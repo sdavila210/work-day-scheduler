@@ -11,13 +11,15 @@ N/A
 
 ## Usage
 
-To use this webpage, the user can type in an event into the empty text area for a specific hour, and when they press save, their event will be saved using local storage. The event will stay even if the user refreshes the page. The user is presentated with time blocks for the work day and each time block is color-coded to indicate whether it is in the past, present, or future. 
+To use this webpage, the user can type in an event into the empty text area for a specific hour, and when they press save, their event will be saved using local storage. The event will stay even if the user refreshes the page. The user is presentated with time blocks for the work day and each time block is color-coded to indicate whether it is in the past, present, or future. The past is grey, the present is red, and the future is green. 
 
 ## Assets
 
-The following images demonstrate the web application's appearance:
+The following images demonstrate the web application's appearance after the work day is over:
 
-![Work day scheduler web application appearance](.) 
+![Work day scheduler web application appearance](./assets/images/work-scheduler1.png)
+![Work day scheduler web application appearance](./assets/images/work-scheduler2.png)
+
 
 
 
